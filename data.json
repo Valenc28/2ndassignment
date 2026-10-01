@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Classic T-Shirt",
+        "description": "A comfortable cotton t-shirt for everyday wear.",
+        "details": "Category: Casual"
+    },
+    {
+        "title": "Denim Jacket",
+        "description": "A classic denim jacket with a timeless style.",
+        "details": "Category: Outerwear"
+    },
+    {
+        "title": "Black Dress",
+        "description": "A simple black dress suitable for different occasions.",
+        "details": "Category: Formal"
+    },
+    {
+        "title": "Wide Leg Pants",
+        "description": "Comfortable wide leg pants with a modern look.",
+        "details": "Category: Casual"
+    }
+]
